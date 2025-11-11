@@ -8,8 +8,9 @@
 	},
 	"id": "gamesgg.bpmfinder",
 	"name": "BPM Finder",
-	"version": "v1.0.0",
+	"version": "v1.0.2",
 	"developer": "GamesGG",
 	"description": "Adds a Find BPM button in the BPM trigger.",
 	"tags": ["editor", "utility", "offline"]
 }
+
