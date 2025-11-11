@@ -1,0 +1,15 @@
+{
+	"geode": "4.9.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "gamesgg.bpmfinder",
+	"name": "BPM Finder",
+	"version": "v1.0.0",
+	"developer": "GamesGG",
+	"description": "Adds a Find BPM button in the BPM trigger.",
+	"tags": ["editor", "utility", "offline"]
+}
