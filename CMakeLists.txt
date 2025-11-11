@@ -13,7 +13,7 @@ project(BPMFinder VERSION 1.0.0)
 file(GLOB_RECURSE SOURCES CONFIGURE_DEPENDS src/*.cpp)
 
 # Add MiniBPM sources (change this from BTrack)
-file(GLOB MINIBPM_SOURCES ${CMAKE_CURRENT_SOURCE_DIR}/libs/minibpm/*.cpp)
+file(GLOB MINIBPM_SOURCES ${CMAKE_CURRENT_SOURCE_DIR}/libs/MiniBpm/*.cpp)
 
 add_library(${PROJECT_NAME} SHARED ${SOURCES} ${MINIBPM_SOURCES})
 
